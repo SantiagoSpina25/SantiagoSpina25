@@ -8,7 +8,7 @@ of a Higher Technical Degree in Multiplatform Application Development (DAM). Pre
 course in Coderhouse.
 
 My favorite programming language at the moment is Java, but I'm also exploring other languages like Python and learning new 
-technologies such as Spring Boot.
+technologies such as Dart and Flutter.
 
 Always eager to learn and improve! 🚀
 
