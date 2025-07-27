@@ -3,14 +3,14 @@
 ## ***About me***
 
 <pre>
-I'm Santiago Nicolás Spina, an Argentine programmer currently living in Málaga, Spain. I'm currently in my second year 
-of a Higher Technical Degree in Multiplatform Application Development (DAM). Previously, I also studied a web development 
-course in Coderhouse.
+I'm Santiago Nicolás Spina, an Argentine programmer currently living in Málaga, Spain.
+I recently completed a Higher Technical Degree in Multiplatform Application Development (DAM), and I previously studied web development at Coderhouse.
 
-My favorite programming language at the moment is Java, but I'm also exploring other languages like Python and learning new 
-technologies such as Dart and Flutter.
+My favorite programming language is Java, and I'm currently focusing on backend development with Spring Boot.
+I also have experience building cross-platform mobile apps using Flutter.
 
-Always eager to learn and improve! 🚀
+I'm always exploring new technologies to expand my skill set and become a better developer. 🚀
+
 
 📩 Contact me: santiagospina025@gmail.com
 </pre>
