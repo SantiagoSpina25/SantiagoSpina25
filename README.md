@@ -4,7 +4,7 @@
 
 <pre>
 I'm Santiago Nicolás Spina, an Argentine programmer currently living in Málaga, Spain.
-I recently completed a Higher Technical Degree in Multiplatform Application Development (DAM), and I previously studied web development at Coderhouse.
+I have a Higher Technical Degree in Multiplatform Application Development (DAM), and I previously studied web development at Coderhouse.
 
 My favorite programming language is Java, and I'm currently focusing on backend development with Spring Boot.
 I also have experience building cross-platform mobile apps using Flutter.
@@ -34,13 +34,6 @@ I'm always exploring new technologies to expand my skill set and become a better
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 </span>
-
-<h4> IDE </h4>
-<span>
-<img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white">
-<img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
 <h4> Other Tools and Technologies </h4>
 <span>
