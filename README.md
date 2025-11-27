@@ -20,12 +20,12 @@ I'm always exploring new technologies to expand my skill set and become a better
 <h4> Languages and Frameworks </h4>
 <span> 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </span>
 
 <h4> Databases </h4>
@@ -43,4 +43,4 @@ I'm always exploring new technologies to expand my skill set and become a better
 </span>
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=SantiagoSpina25&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+<img alt="My stats" src="https://github-readme-stats.vercel.app/api?username=santiagospina25&show_icons=true&theme=dracula">
