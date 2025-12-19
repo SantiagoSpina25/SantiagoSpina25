@@ -6,8 +6,7 @@
 I'm Santiago Nicolás Spina, an Argentine programmer currently living in Málaga, Spain.
 I have a Higher Technical Degree in Multiplatform Application Development (DAM), and I previously studied web development at Coderhouse.
 
-My favorite programming language is Java, and I'm currently focusing on backend development with Spring Boot.
-I also have experience building cross-platform mobile apps using Flutter.
+My favorite programming language is Java, and I’m currently transitioning towards Big Data. I have a background in backend development with Spring Boot and experience building cross-platform mobile apps using Flutter.
 
 I'm always exploring new technologies to expand my skill set and become a better developer. 🚀
 
